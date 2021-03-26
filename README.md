@@ -16,7 +16,7 @@ This hook library simulates a perfectly timed music file using
 `QueryPerformanceCounter`, which fixes the timing issues and makes the game run
 as expected.
 
-The COM API is hooked using capnhook's com-proxy. Built using Visual Studio
+The COM API is hooked using [capnhook](https://github.com/decafcode/capnhook)'s com-proxy. Built using Visual Studio
 2019.
 
 ## Install
